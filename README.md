@@ -1,52 +1,78 @@
-# Anava Vision Installer Downloads
+# Anava Vision - Public Downloads
 
-This repository provides stable download links for Anava Vision installers, designed for website integration with static URLs.
+This repository provides static download links for the Anava Vision application.
 
-## 📥 Download Links
+## Download Links (Always Latest Version)
 
-### Latest Version (Always Up-to-Date)
+### Windows
+**Direct Download**: [Anava.Vision.Setup.exe](https://github.com/AnavaAcap/vision-releases/releases/latest/download/Anava.Vision.Setup.exe)
 
-- **Windows**: [Anava.Vision.Setup.exe](https://github.com/AnavaAcap/vision-releases/releases/latest/download/Anava.Vision.Setup.exe)
-- **macOS**: [Anava.Vision.dmg](https://github.com/AnavaAcap/vision-releases/releases/latest/download/Anava.Vision.dmg)
+**Website Integration URL**: 
+```
+https://github.com/AnavaAcap/vision-releases/releases/latest/download/Anava.Vision.Setup.exe
+```
 
-## 🚀 What is Anava Vision?
+### macOS
+**Direct Download**: [Anava.Vision.dmg](https://github.com/AnavaAcap/vision-releases/releases/latest/download/Anava.Vision.dmg)
 
-Anava Vision is an AI-powered camera system installer and configuration tool that enables:
+**Website Integration URL**:
+```
+https://github.com/AnavaAcap/vision-releases/releases/latest/download/Anava.Vision.dmg
+```
 
-- **Smart Camera Discovery**: Automatically find and configure IP cameras on your network
-- **Vision Architect**: AI-driven analytics configuration with natural language processing
-- **Private Cloud Deployment**: Set up your own secure AI infrastructure on Google Cloud
-- **Custom Port Support**: Connect to cameras on non-standard ports
-- **Real-time Testing**: Validate AI detection capabilities before deployment
+## Current Version
 
-## 💻 System Requirements
+**Version**: v0.9.214  
+**Release Date**: $(date +"%Y-%m-%d")  
+**Source**: [anava-infrastructure-deployer](https://github.com/AnavaAcap/anava-infrastructure-deployer/releases/tag/v0.9.214)
+
+## What is Anava Vision?
+
+Anava Vision is an intelligent camera configuration and deployment system that:
+
+- **Automated Camera Discovery**: Automatically finds and configures Axis cameras on your network
+- **AI-Powered Analytics**: Deploy advanced computer vision and AI analytics to your cameras
+- **Cloud Integration**: Seamless integration with Google Cloud Platform for scalable AI processing
+- **Vision Architect**: AI-driven system that creates custom analytics scenarios based on your specific needs
+- **Enterprise Ready**: Complete deployment solution for retail, manufacturing, healthcare, and security applications
+
+## Installation
+
+### Windows
+1. Download `Anava.Vision.Setup.exe`
+2. Run the installer
+3. Follow the setup wizard
+
+### macOS
+1. Download `Anava.Vision.dmg`
+2. Open the DMG file
+3. Drag Anava Vision to your Applications folder
+
+## System Requirements
 
 ### Windows
 - Windows 10 or later (64-bit)
 - 4GB RAM minimum, 8GB recommended
-- 2GB available disk space
+- 500MB free disk space
+- Network access to camera subnet
 
 ### macOS
 - macOS 10.15 (Catalina) or later
-- Intel or Apple Silicon processors supported
+- Intel or Apple Silicon Mac
 - 4GB RAM minimum, 8GB recommended
-- 2GB available disk space
+- 500MB free disk space
+- Network access to camera subnet
 
-## 🔧 Installation
+## Support
 
-1. Download the appropriate installer for your operating system
-2. Run the installer with administrator privileges
-3. Follow the setup wizard
-4. Launch Anava Vision from your applications
+- **Documentation**: [Anava Vision Docs](https://docs.anava.ai)
+- **Issues**: [Report Issues](https://github.com/AnavaAcap/anava-infrastructure-deployer/issues)
+- **Enterprise Support**: contact@anava.ai
 
-## 📖 Documentation
+## Release History
 
-For detailed setup and usage instructions, visit our [documentation portal](https://docs.anava.ai).
-
-## 🏢 Enterprise Support
-
-For enterprise deployments, custom integrations, or technical support, contact us at [support@anava.ai](mailto:support@anava.ai).
+For complete release history and changelog, see the [main repository releases](https://github.com/AnavaAcap/anava-infrastructure-deployer/releases).
 
 ---
 
-**Note**: These download links always point to the latest stable version. The installers are automatically updated when new versions are released.
+*This repository is automatically updated when new versions are released.*
