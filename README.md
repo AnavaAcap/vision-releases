@@ -22,9 +22,9 @@ https://github.com/AnavaAcap/vision-releases/releases/latest/download/Anava.Visi
 
 ## Current Version
 
-**Version**: v0.9.237  
+**Version**: v0.9.238  
 **Release Date**: $(date +"%Y-%m-%d")  
-**Source**: [anava-infrastructure-deployer](https://github.com/AnavaAcap/anava-infrastructure-deployer/releases/tag/v0.9.237)
+**Source**: [anava-infrastructure-deployer](https://github.com/AnavaAcap/anava-infrastructure-deployer/releases/tag/v0.9.238)
 
 ## What is Anava Vision?
 
