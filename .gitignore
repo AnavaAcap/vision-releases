@@ -1,0 +1,17 @@
+# Ignore all installer files - they should only exist as GitHub Release assets
+*.exe
+*.dmg
+*.zip
+*.tar.gz
+*.deb
+*.rpm
+*.AppImage
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+release-assets/
